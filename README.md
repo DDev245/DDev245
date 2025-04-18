@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DDev245
-- 👀 I’m interested in IoT Solutions, Embedded Applications and Low Level Programming 
+- 👀 I’m interested in IoT Solutions, Embedded Applications, Low Level Programming and Blockchain Development 
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IoT Plataforms
 - 📫 How to reach me dariendev24@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
